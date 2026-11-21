@@ -14,10 +14,10 @@
 <img src="https://komarev.com/ghpvc/?username=Praveen2330&label=Profile+Views&color=0e75b6&style=flat-square" alt="views" />
 &nbsp;
 <a href="https://github.com/Praveen2330?tab=followers">
-  <img src="https://img.shields.io/github/followers/Praveen2330?label=Followers&style=flat-square&color=0e75b6" />
+  <img src="https://img.shields.io/github/followers/Praveen2330?label=Followers&style=flat-square&color=0e75b6" alt="followers" />
 </a>
 &nbsp;
-<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner%20Certified-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner%20Certified-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS Certified" />
 
 </div>
 
@@ -91,14 +91,14 @@ me.say_hi()
 <div align="center">
 
 | Project | Description | Tech |
-|--------|-------------|------|
+|:-------:|:------------|:----:|
 | 🧠 [**FinGraph-AI**](https://github.com/Praveen2330/FinGraph-AI) | AI-powered financial analytics & visualization | Python, AI |
 | ☁️ [**Cloud-AI-FinOps-dashboard**](https://github.com/Praveen2330/Cloud-AI-FinOps-dashboard) | Cloud cost intelligence dashboard with AI insights | Python, AWS |
 | 🌊 [**AI Geospatial Fishing Zone**](https://github.com/Praveen2330/AI-Based-Geospatial-Decision-Support-System-for-Optimal-Fishing-Zone-Identification) | AI-based geospatial decision support system | HTML, ML |
 | 🏥 [**Renal-Agent**](https://github.com/Praveen2330/Renal-Agent-) | AI agent for renal health decision support | TypeScript |
 | ⚽ [**Go-Turf**](https://github.com/Praveen2330/Go-Turf) | Turf booking & management platform | TypeScript |
 | 🎮 [**2D-SpaceShooter**](https://github.com/Praveen2330/2D-SpaceShooter) | 2D space shooter game built in Unity | C# |
-| 🔧 [**Unified Engineering Workbench**](https://github.com/Praveen2330/Unified-Engineering-Workbench) | All-in-one engineering toolkit | — |
+| 🔧 [**Unified Engineering Workbench**](https://github.com/Praveen2330/Unified-Engineering-Workbench) | All-in-one engineering toolkit | Python, Tools |
 | 🌐 [**My Portfolio**](https://github.com/Praveen2330/My-PortFolio) | Personal portfolio website | JavaScript |
 
 </div>
@@ -109,33 +109,37 @@ me.say_hi()
 
 <div align="center">
 
-![Total Commits](https://img.shields.io/badge/Total%20Commits-400%2B-brightgreen?style=for-the-badge&logo=git&logoColor=white)
+![Total Commits](https://img.shields.io/badge/Total%20Commits-490%2B-0e75b6?style=for-the-badge&logo=git&logoColor=white)
 &nbsp;
-![Years on GitHub](https://img.shields.io/badge/Years%20on%20GitHub-3%2B-blue?style=for-the-badge&logo=github&logoColor=white)
+![Active Streak](https://img.shields.io/badge/Commit%20Streak-35%2B%20Weeks-brightgreen?style=for-the-badge&logo=githubactions&logoColor=white)
 &nbsp;
-![Repositories](https://img.shields.io/badge/Repositories-17%2B-orange?style=for-the-badge&logo=github&logoColor=white)
+![Repositories](https://img.shields.io/badge/Repositories-18%2B-orange?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
-## 📊 GitHub Analytics
+<br/>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Praveen2330&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Praveen2330&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&refresh=1" alt="GitHub Stats" />
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen2330&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen2330&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8&refresh=1" alt="Top Languages" />
 
 </div>
 
+<br/>
+
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Praveen2330&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e96&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" />
+<img src="https://streak-stats.demolab.com?user=Praveen2330&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e96&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&refresh=1" alt="Streak Stats" />
 
 </div>
 
+<br/>
+
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Praveen2330&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6e96&area=true&area_color=58a6ff" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Praveen2330&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6e96&area=true&area_color=58a6ff&refresh=1" alt="Activity Graph" />
 
 </div>
 
@@ -144,7 +148,7 @@ me.say_hi()
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Praveen2330&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Praveen2330&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies" />
 </div>
 
 ---
@@ -154,7 +158,7 @@ me.say_hi()
 <div align="center">
 
 | 🔭 Exploring | 🌱 Learning | 💡 Building |
-|-------------|------------|------------|
+|:------------|:------------|:-----------|
 | Advanced AI/ML Models | Full Stack (React + Node) | Cloud-Native AI Apps |
 | AWS Services (beyond CCP) | System Design & DSA | FinTech & HealthTech Projects |
 | Geospatial AI | TypeScript & Next.js | Open Source Contributions |
