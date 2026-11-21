@@ -109,6 +109,18 @@ me.say_hi()
 
 <div align="center">
 
+![Total Commits](https://img.shields.io/badge/Total%20Commits-400%2B-brightgreen?style=for-the-badge&logo=git&logoColor=white)
+&nbsp;
+![Years on GitHub](https://img.shields.io/badge/Years%20on%20GitHub-3%2B-blue?style=for-the-badge&logo=github&logoColor=white)
+&nbsp;
+![Repositories](https://img.shields.io/badge/Repositories-17%2B-orange?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Praveen2330&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
 &nbsp;
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praveen2330&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" />
